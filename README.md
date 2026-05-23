@@ -44,4 +44,4 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 
 ## Performance Comparison
 
-![Performance Comparison](Performance_comparison.png)
+![Performance Comparison](Performance comparison.png)
