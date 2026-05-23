@@ -30,3 +30,18 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 - `src/` : Python source code
 - `results/` : Graphs and output plots
 - `report/` : Project report and presentation
+## Workflow Diagram
+
+![Workflow Diagram](Workflow.png)
+
+## PCA Feature Reduction
+
+![PCA Plot](PCA Scatter Plot.png)
+
+## ANN Architecture
+
+![ANN Architecture](ANN architecture.png)
+
+## Performance Comparison
+
+![Performance Comparison](Performance_comparison.png)
