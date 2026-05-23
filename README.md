@@ -36,7 +36,7 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 
 ## PCA Feature Reduction
 
-![PCA Plot](PCA Scatter Plot.png)
+![PCA Plot](PCA Scatter plot.png)
 
 ## ANN Architecture
 
