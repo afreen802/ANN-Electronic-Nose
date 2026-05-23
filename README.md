@@ -32,16 +32,16 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 - `report/` : Project report and presentation
 ## Workflow Diagram
 
-![Workflow Diagram](workflow_diagram)
+![Workflow Diagram](src/results/workflow_diagram.png)
 
 ## PCA Feature Reduction
 
-![PCA Plot](pca_plot)
+![PCA Plot](src/results/pca_plot.png)
 
 ## ANN Architecture
 
-![ANN Architecture](ann_architecture)
+![ANN Architecture](src/results/ann_architecture.png)
 
 ## Performance Comparison
 
-![Performance Comparison](performance_comparison)
+![Performance Comparison](src/results/performance_comparison.png)
