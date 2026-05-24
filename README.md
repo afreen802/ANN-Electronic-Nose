@@ -8,7 +8,7 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 - Apply PCA for dimensionality reduction
 - Use ANN for pattern recognition and classification
 
-## Technologies Used
+## Tools and Technologies
 
 - Python
 - TensorFlow / Keras
@@ -32,6 +32,31 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 - `src/` : Python source code
 - `results/` : Graphs and output plots
 - `report/` : Project report and presentation
+
+# ANN-Based Electronic Nose for VOC Detection
+
+## Overview
+
+## Objectives
+
+## Methodology
+
+## Workflow Diagram
+
+## PCA Feature Reduction
+
+## ANN Architecture
+
+## Performance Comparison
+
+## Technologies Used
+
+## How to Run
+
+## Future Scope
+
+## Author
+
 ## Workflow Diagram
 
 ![Workflow Diagram](results/workflow_diagram.png)
@@ -47,3 +72,26 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 ## Performance Comparison
 
 ![Performance Comparison](results/performance_comparison.png)
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python src/pca_ann_model.py
+```
+## Technologies Used
+
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- PCA
+- Artificial Neural Networks
+- Pandas
+- NumPy
+- Matplotlib
+
+## Author
+
+Afreen Chaudhary  
+B.Sc. Physics Hons. 
+Kalindi College, University of Delhi
