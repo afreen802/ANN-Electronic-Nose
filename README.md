@@ -8,13 +8,15 @@ This project explores the use of Artificial Neural Networks (ANN) and Principal 
 - Apply PCA for dimensionality reduction
 - Use ANN for pattern recognition and classification
 
-## Tools & Technologies
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
+## Technologies Used
 
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- PCA
+- Artificial Neural Networks
+- Data Visualization
+  
 ## Methodology
 1. Data preprocessing
 2. PCA feature extraction
